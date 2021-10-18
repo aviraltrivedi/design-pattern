@@ -2,8 +2,6 @@ package factory.pattern;
 
 import factory.pattern.patternService.FactoryPattern;
 
-import java.io.IOException;
-
 public class MainFactoryPattern {
 
     public static void main (String[] args)
